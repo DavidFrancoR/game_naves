@@ -26,7 +26,6 @@ Uma das dificuldades dos desenvolvedores de jogos é encontrar uma plataforma de
 
 - [Projeto desenvolvido](https://game-resgate.vercel.app/)
 
-<p align="center"><img src="./src/assets/readme/projeto.gif" title="Jogo de Naves - DIO"></p>
 
 <h3>👨‍💻 Tecnologias utilizadas</h3>
 
